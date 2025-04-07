@@ -8,6 +8,7 @@ Awesome list of papers on quantum communications, networking, and computing
 ## Introductory
 - **▶️ [What is a quantum Internet?](https://www.youtube.com/watch?v=PCKoT9xcyXI)**
 - **▶️ [The Quantum Internet | Stephanie Wehner | TEDxVienna](https://www.youtube.com/watch?v=XzPi29O6DAc)**
+- **▶️ [What Cisco is Researching, Developing, and Incubating in Quantum Networking](https://www.youtube.com/watch?v=iZDJPomuo70)**
 - **▶️ [Inside the Quantum Networking Lab | Behind the Science](https://www.youtube.com/watch?v=6EqW4Y8ZfTQ)** 
 - **▶️ [Course 1: Physics behind quantum networks: A gentle introduction](https://www.youtube.com/watch?v=jRI1nTlQWAU)**
 - **▶️ [Course 2: Optical networks for quantum networks](https://www.youtube.com/watch?v=VCyhGSQFrs0)**
@@ -30,7 +31,6 @@ Awesome list of papers on quantum communications, networking, and computing
 # Global Research Groups and Initiatives
 - **▶️ [Center for Quantum Networks (CQN)](https://cqn-erc.arizona.edu/)**
 - **[Quantum AI Google](https://quantumai.google/)**
-- 
   
 # Intersting Resources
 ## Simulation Tools
