@@ -2,8 +2,10 @@
 Awesome list of papers on quantum communications, networking, and computing
 
 
-# Introductory Videos
+# Videos
 <!-- - <img src="https://github.com/user-attachments/assets/4d07a54c-2aa7-4b0b-a283-48536610406d" alt="Youtube" width="18"/> <a href="https://www.youtube.com/watch?v=PCKoT9xcyXI" title="What is a quantum Internet?">What is a quantum Internet?</a> -->
+
+## Introductory
 - **▶️ [What is a quantum Internet?](https://www.youtube.com/watch?v=PCKoT9xcyXI)**
 - **▶️ [Inside the Quantum Networking Lab | Behind the Science](https://www.youtube.com/watch?v=6EqW4Y8ZfTQ)** 
 - **▶️ [Course 1: Physics behind quantum networks: A gentle introduction](https://www.youtube.com/watch?v=jRI1nTlQWAU)**
@@ -12,7 +14,10 @@ Awesome list of papers on quantum communications, networking, and computing
 - **▶️ [Course 4: How to build a quantum network/ Theory perspective](https://www.youtube.com/watch?v=pZJVU_60Gd8)**
 <!-- - [<img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" alt="Video Thumbnail" width="50%">](https://www.youtube.com/watch?v=PCKoT9xcyXI) -->
 
-# Advanced Videos
+## Quantum Key Distribution (QKD)
+- **▶️ [Quantum Key Distribution (QKD) Explained: Secure Communication Redefined](https://www.youtube.com/watch?v=gnk8VoMsvO8)**
+
+## Advanced Videos
 - **▶️ [Building the Quantum Internet](https://www.youtube.com/watch?v=40TcmAc6SCY)**
 
 # Global Research Groups and Initiatives
