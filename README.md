@@ -22,9 +22,11 @@ Awesome list of papers on quantum communications, networking, and computing
 
 # Global Research Groups and Initiatives
 - **▶️ [Center for Quantum Networks (CQN)](https://cqn-erc.arizona.edu/)**
+- **[Quantum AI Google](https://quantumai.google/)** 
+
   
 # Intersting Resources
-- **▶️ [ Center for Quantum Networks Play List on Youtube](https://www.youtube.com/@centerforquantumnetworks)**
+- **▶️ [Center for Quantum Networks Play List on Youtube](https://www.youtube.com/@centerforquantumnetworks)**
 
 # Winter Schools
 - **[2025 Winter School on Quantum Networks (CQN)](https://cqn-erc.arizona.edu/2025winter-school)** 
