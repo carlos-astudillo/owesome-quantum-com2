@@ -17,6 +17,8 @@ Awesome list of papers on quantum communications, networking, and computing
 ## Quantum Key Distribution (QKD)
 - **▶️ [Quantum Key Distribution (QKD) Explained: Secure Communication Redefined](https://www.youtube.com/watch?v=gnk8VoMsvO8)**
 - **▶️ [How Quantum Key Distribution Works (BB84 & E91)](https://www.youtube.com/watch?v=V3WzH2up7Os)**
+- **▶️ [Quantum Key Distribution | QuTech Academy](https://www.youtube.com/watch?v=lVXJgn3fDkg)**
+
 
 ## Advanced Videos
 - **▶️ [Building the Quantum Internet](https://www.youtube.com/watch?v=40TcmAc6SCY)**
