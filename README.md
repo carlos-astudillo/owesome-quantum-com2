@@ -27,6 +27,10 @@ Awesome list of papers on quantum communications, networking, and computing
 
   
 # Intersting Resources
+## Simulation Tools
+- **[A](https://www.youtube.com/@centerforquantumnetworks)**
+
+## Video lists
 - **▶️ [Center for Quantum Networks Play List on Youtube](https://www.youtube.com/@centerforquantumnetworks)**
 
 # Winter Schools
