@@ -20,15 +20,16 @@ Awesome list of papers on quantum communications, networking, and computing
 - **▶️ [Quantum Key Distribution | QuTech Academy](https://www.youtube.com/watch?v=lVXJgn3fDkg)**
 
 ## Entaglement
-- **▶️ [Introducing entanglement distillation | QuTech Academy](https://www.youtube.com/watch?v=-50dDQEkyG0)** 
+- **▶️ [Introducing entanglement distillation | QuTech Academy](https://www.youtube.com/watch?v=-50dDQEkyG0)**
+- **▶️ [Entanglement distillation example | QuTech Academy](https://www.youtube.com/watch?v=lvZ-qz37wRk)**
 
 ## Advanced Videos
 - **▶️ [Building the Quantum Internet](https://www.youtube.com/watch?v=40TcmAc6SCY)**
 
 # Global Research Groups and Initiatives
 - **▶️ [Center for Quantum Networks (CQN)](https://cqn-erc.arizona.edu/)**
-- **[Quantum AI Google](https://quantumai.google/)** 
-
+- **[Quantum AI Google](https://quantumai.google/)**
+- 
   
 # Intersting Resources
 ## Simulation Tools
