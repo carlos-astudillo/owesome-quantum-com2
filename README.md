@@ -19,6 +19,8 @@ Awesome list of papers on quantum communications, networking, and computing
 - **▶️ [How Quantum Key Distribution Works (BB84 & E91)](https://www.youtube.com/watch?v=V3WzH2up7Os)**
 - **▶️ [Quantum Key Distribution | QuTech Academy](https://www.youtube.com/watch?v=lVXJgn3fDkg)**
 
+## Entaglement
+- **▶️ [Introducing entanglement distillation | QuTech Academy](https://www.youtube.com/watch?v=-50dDQEkyG0)** 
 
 ## Advanced Videos
 - **▶️ [Building the Quantum Internet](https://www.youtube.com/watch?v=40TcmAc6SCY)**
