@@ -29,7 +29,9 @@ Awesome list of papers on quantum communications, networking, and computing
 - **▶️ [Building the Quantum Internet](https://www.youtube.com/watch?v=40TcmAc6SCY)**
 
 # Global Research Groups and Initiatives
+## Research Projects
 - **▶️ [Center for Quantum Networks (CQN)](https://cqn-erc.arizona.edu/)**
+-  **▶️ [Classique (Aalborg University)](https://www.classique.aau.dk/)**
 - **[Quantum AI Google](https://quantumai.google/)**
   
 # Intersting Resources
