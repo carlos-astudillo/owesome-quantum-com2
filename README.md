@@ -15,10 +15,14 @@ Awesome list of papers on quantum communications, networking, and computing
 # Advanced Videos
 - **▶️ [Building the Quantum Internet](https://www.youtube.com/watch?v=40TcmAc6SCY)**
 
+# Global Research Groups and Initiatives
+- **▶️ [Center for Quantum Networks (CQN)](https://cqn-erc.arizona.edu/)**
+  
+# Intersting Resources
+- **▶️ [ Center for Quantum Networks Play List on Youtube](https://www.youtube.com/@centerforquantumnetworks)**
 
 # Winter Schools
 - **[2025 Winter School on Quantum Networks (CQN)](https://cqn-erc.arizona.edu/2025winter-school)** 
-
 
 # Other related links on GitHub
 - **[Owesome Quantum Coumputing](https://github.com/desireevl/awesome-quantum-computing)**
