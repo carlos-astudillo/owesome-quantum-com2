@@ -42,6 +42,9 @@ Awesome list of papers on quantum communications, networking, and computing
 # Winter Schools
 - **[2025 Winter School on Quantum Networks (CQN)](https://cqn-erc.arizona.edu/2025winter-school)** 
 
+# People
+- [Stephanie Wehner (TUDelft)](https://qutech.nl/person/stephanie-wehner/)
+- 
 # Other related links on GitHub
 - **[Owesome Quantum Coumputing](https://github.com/desireevl/awesome-quantum-computing)**
 - **[Owesome Quantum ML](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)**
