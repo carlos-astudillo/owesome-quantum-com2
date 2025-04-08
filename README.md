@@ -30,8 +30,8 @@ Awesome list of papers on quantum communications, networking, and computing
 
 # Global Research Groups and Initiatives
 ## Research Projects
-- **▶️ [Center for Quantum Networks (CQN)](https://cqn-erc.arizona.edu/)**
--  **▶️ [Classique (Aalborg University)](https://www.classique.aau.dk/)**
+- **[Center for Quantum Networks (CQN)](https://cqn-erc.arizona.edu/)**
+-  **[Classique (Aalborg University)](https://www.classique.aau.dk/)**
 - **[Quantum AI Google](https://quantumai.google/)**
   
 # Intersting Resources
