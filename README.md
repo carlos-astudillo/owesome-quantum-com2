@@ -1,5 +1,5 @@
 # Owesome Quantum Com2
-Awesome list of papers on quantum communications, networking, and computing
+Awesome list of papers and information on quantum communications, networking, and computing
 
 
 # Videos
@@ -25,6 +25,9 @@ Awesome list of papers on quantum communications, networking, and computing
 - **▶️ [Introducing entanglement distillation | QuTech Academy](https://www.youtube.com/watch?v=-50dDQEkyG0)**
 - **▶️ [Entanglement distillation example | QuTech Academy](https://www.youtube.com/watch?v=lvZ-qz37wRk)**
 
+## Computing 
+**▶️ [La amenza de los ordenadores cuánticos]
+(https://youtube.com/shorts/5cODzEmAVLg?si=RPuinJ-tbCOE6kjJ)**
 ## Advanced Videos
 - **▶️ [Building the Quantum Internet](https://www.youtube.com/watch?v=40TcmAc6SCY)**
 
