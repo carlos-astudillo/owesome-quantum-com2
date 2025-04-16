@@ -32,6 +32,10 @@ Awesome list of papers and information on quantum communications, networking, an
 - **▶️ [Building the Quantum Internet](https://www.youtube.com/watch?v=40TcmAc6SCY)**
 
 # Global Research Groups and Initiatives
+
+## Quantum Networks in Brazil
+- [Fapesp Material on QN in Brazil](https://revistapesquisa.fapesp.br/en/brazils-first-quantum-cryptography-network-is-expected-to-connect-five-research-institutions/)
+
 ## Research Projects
 - **[Center for Quantum Networks (CQN)](https://cqn-erc.arizona.edu/)**
 -  **[Classique (Aalborg University)](https://www.classique.aau.dk/)**
